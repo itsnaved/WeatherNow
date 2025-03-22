@@ -7,7 +7,7 @@ Check out the live version of the app here:
 
 ## ✨ Features
 - Get real-time weather updates.
-- Displays temperature, humidity, wind speed, and weather conditions.
+- Displays temperature, real time and date and weather conditions.
 - Responsive design.
 
 ## 🚀 How to Use
